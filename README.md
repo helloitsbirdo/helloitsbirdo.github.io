@@ -4,7 +4,9 @@
 
 This handbook has been created as a community sourced hub of information for new Polkadot builders in the Polkadot ecosystem and a great reference point to keep on hand as you progress through your journey.
 
-This information is open source and accepting new pages, updates and changes at [link]
+This information is open source and accepting new pages, updates and changes at [https://github.com/helloitsbirdo/helloitsbirdo.github.io](https://github.com/helloitsbirdo/helloitsbirdo.github.io).
+
+This wiki is powered by [Docsify](https://docsify.js.org/)
 
 ## Technical tools
 
