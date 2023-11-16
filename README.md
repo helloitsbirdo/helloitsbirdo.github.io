@@ -8,6 +8,8 @@ This information is open source and accepting new pages, updates and changes at 
 
 This wiki is powered by [Docsify](https://docsify.js.org/)
 
+Pull Requests are welcome.
+
 ## Technical tools
 
 🆘 [Technical Support channels](tech-tools/tech-support-channels.md)
